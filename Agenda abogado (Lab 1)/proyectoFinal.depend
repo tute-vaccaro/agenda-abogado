@@ -1,0 +1,476 @@
+# depslib dependency file v1.0
+1686445598 source:c:\users\usuario\desktop\proyectofinal\tools.c
+	"tools.h"
+
+1685707228 source:d:\proyectofinal\tools.c
+	"tools.h"
+
+1685717530 d:\proyectofinal\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1685717144 source:d:\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"mains.h"
+	"home.h"
+
+1685719228 d:\proyectofinal\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+
+1685715221 source:d:\proyectofinal\usuario.c
+	"usuario.h"
+
+1685717652 d:\proyectofinal\mains.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+
+1685717516 d:\proyectofinal\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+
+1685717215 source:d:\proyectofinal\home.c
+	"home.h"
+
+1686406733 c:\users\usuario\desktop\proyectofinal\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1686446010 source:c:\users\usuario\desktop\proyectofinal\home.c
+	"home.h"
+
+1686442438 c:\users\usuario\desktop\proyectofinal\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+
+1686445354 c:\users\usuario\desktop\proyectofinal\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+
+1686435693 source:c:\users\usuario\desktop\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+
+1686403958 c:\users\usuario\desktop\proyectofinal\mains.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+
+1686403958 source:c:\users\usuario\desktop\proyectofinal\mains.c
+	"mains.h"
+
+1686445598 source:c:\users\usuario\desktop\proyectofinal\usuario.c
+	"usuario.h"
+
+1686443691 c:\users\usuario\desktop\proyectofinal\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+
+1686444910 source:c:\users\usuario\desktop\proyectofinal\menu.c
+	"menu.h"
+	"usuario.h"
+
+1687470148 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\home.c
+	"home.h"
+
+1687470148 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+
+1687523511 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+
+1687470148 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1687519215 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+
+1687524111 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+	"citas.h"
+
+1687524151 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\menu.c
+	"menu.h"
+	"usuario.h"
+	"causas.h"
+	"citas.h"
+	"calendario.h"
+
+1687470148 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\tools.c
+	"tools.h"
+
+1687519197 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\usuario.c
+	"usuario.h"
+
+1687470148 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687524112 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\causas.c
+	"Causas.h"
+	"tools.h"
+
+1687519215 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\causas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"tools.h"
+	"pila.h"
+
+1687470148 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\gotoxy.h
+
+1687523953 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\citas.c
+	"citas.h"
+	"usuario.h"
+
+1687523551 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\citas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+	<time.h>
+	"tools.h"
+
+1687515895 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\calendario.c
+	"calendario.h"
+
+1687515948 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\calendario.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	<string.h>
+	"usuario.h"
+
+1490112217 c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\usuario\documents\github\proyectolaboratorio\proyectofinal\pila.c
+	"pila.h"
+
+1687515895 source:c:\users\agush\desktop\entregafinal\calendario.c
+	"calendario.h"
+
+1687515948 c:\users\agush\desktop\entregafinal\calendario.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	<string.h>
+	"usuario.h"
+
+1687470148 c:\users\agush\desktop\entregafinal\gotoxy.h
+
+1687523511 c:\users\agush\desktop\entregafinal\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+
+1687470148 c:\users\agush\desktop\entregafinal\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1687530571 source:c:\users\agush\desktop\entregafinal\causas.c
+	"Causas.h"
+	"tools.h"
+
+1687519215 c:\users\agush\desktop\entregafinal\causas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"tools.h"
+	"pila.h"
+
+1490112217 c:\users\agush\desktop\entregafinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687523953 source:c:\users\agush\desktop\entregafinal\citas.c
+	"citas.h"
+	"usuario.h"
+
+1687523551 c:\users\agush\desktop\entregafinal\citas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+	<time.h>
+	"tools.h"
+
+1687470148 source:c:\users\agush\desktop\entregafinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687531716 source:c:\users\agush\desktop\entregafinal\home.c
+	"home.h"
+
+1687470148 c:\users\agush\desktop\entregafinal\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+
+1687519215 source:c:\users\agush\desktop\entregafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+
+1687524111 c:\users\agush\desktop\entregafinal\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+	"citas.h"
+
+1687524341 source:c:\users\agush\desktop\entregafinal\menu.c
+	"menu.h"
+	"usuario.h"
+	"causas.h"
+	"citas.h"
+	"calendario.h"
+
+1490112217 source:c:\users\agush\desktop\entregafinal\pila.c
+	"pila.h"
+
+1687470148 source:c:\users\agush\desktop\entregafinal\tools.c
+	"tools.h"
+
+1687519197 source:c:\users\agush\desktop\entregafinal\usuario.c
+	"usuario.h"
+
+1687515895 source:c:\users\agush\desktop\entregafinal - copia\calendario.c
+	"calendario.h"
+
+1687515948 c:\users\agush\desktop\entregafinal - copia\calendario.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	<string.h>
+	"usuario.h"
+
+1687470148 c:\users\agush\desktop\entregafinal - copia\gotoxy.h
+
+1687523511 c:\users\agush\desktop\entregafinal - copia\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+
+1687470148 c:\users\agush\desktop\entregafinal - copia\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1687535748 source:c:\users\agush\desktop\entregafinal - copia\causas.c
+	"Causas.h"
+	"tools.h"
+
+1687535748 c:\users\agush\desktop\entregafinal - copia\causas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"tools.h"
+	"pila.h"
+
+1490112217 c:\users\agush\desktop\entregafinal - copia\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687533860 source:c:\users\agush\desktop\entregafinal - copia\citas.c
+	"citas.h"
+	"usuario.h"
+
+1687523551 c:\users\agush\desktop\entregafinal - copia\citas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"tools.h"
+	<time.h>
+	"tools.h"
+
+1687470148 source:c:\users\agush\desktop\entregafinal - copia\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687532595 source:c:\users\agush\desktop\entregafinal - copia\home.c
+	"home.h"
+
+1687470148 c:\users\agush\desktop\entregafinal - copia\home.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+
+1687519215 source:c:\users\agush\desktop\entregafinal - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"menu.h"
+	"home.h"
+	"causas.h"
+
+1687524111 c:\users\agush\desktop\entregafinal - copia\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"usuario.h"
+	"home.h"
+	"citas.h"
+
+1687533989 source:c:\users\agush\desktop\entregafinal - copia\menu.c
+	"menu.h"
+	"usuario.h"
+	"causas.h"
+	"citas.h"
+	"calendario.h"
+
+1490112217 source:c:\users\agush\desktop\entregafinal - copia\pila.c
+	"pila.h"
+
+1687470148 source:c:\users\agush\desktop\entregafinal - copia\tools.c
+	"tools.h"
+
+1687519197 source:c:\users\agush\desktop\entregafinal - copia\usuario.c
+	"usuario.h"
+
