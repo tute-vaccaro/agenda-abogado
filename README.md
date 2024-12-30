@@ -1,4 +1,4 @@
-# agenda-abogado
+# Agenda-abogado
 
 Mi primer proyecto realizado en C, es una agenda para abogados, en la que se puede:
 - Registrarse
@@ -17,21 +17,21 @@ Mi primer proyecto realizado en C, es una agenda para abogados, en la que se pue
 - Agregar causa
 - Ver causas
 
-  # Cliente
-  - Ver causas
-  - Ver citas
-  - Cancelar cita
+# Cliente
+- Ver causas
+- Ver citas
+- Cancelar cita
  
-  # Admin
-  - Listado de abogados/clientes por Apellido y nombre
-  - Listado de abogados/clientes alta/baja
-  - Buscar abogado/clientes
-  - Dar de baja/alta a un abogado/clientes
-  - Modificar datos de abogado/clientes
-  - Listado de causas
-  - Cargar causa
-  - Buscar causa
-  - Dar de baja/alta a una causa
+# Admin
+- Listado de abogados/clientes por Apellido y nombre
+- Listado de abogados/clientes alta/baja
+- Buscar abogado/clientes
+- Dar de baja/alta a un abogado/clientes
+- Modificar datos de abogado/clientes
+- Listado de causas
+- Cargar causa
+- Buscar causa
+- Dar de baja/alta a una causa
   - Modificar datos de una causa
   - Ver ultimas causas cargadas
   - Buscar causa por DNI
