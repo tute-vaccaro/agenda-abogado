@@ -32,9 +32,9 @@ Mi primer proyecto realizado en C, es una agenda para abogados, en la que se pue
 - Cargar causa
 - Buscar causa
 - Dar de baja/alta a una causa
-  - Modificar datos de una causa
-  - Ver ultimas causas cargadas
-  - Buscar causa por DNI
-  - Buscar causa por Numero de causa
-  - Buscar causa por Juez
-  - Agregar admin
+- Modificar datos de una causa
+- Ver ultimas causas cargadas
+- Buscar causa por DNI
+- Buscar causa por Numero de causa
+- Buscar causa por Juez
+- Agregar admin
